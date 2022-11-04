@@ -10,7 +10,7 @@ int a=10;
 int b=20;
 int c=a+b;
 Sysem.out.println(c);
->>>>>>> Stashed changes
+System.out.println("hi Sonali");
 }
 }
 }
